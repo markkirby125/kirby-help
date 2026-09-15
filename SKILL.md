@@ -24,6 +24,7 @@ You have the following Kirby skills installed on this machine:
 | **kirby-seo-deployment** | Programmatic deployment staging, velocity rules, satellite EMDs & runaway publishing defense. | `seo-deployment`, `publishing-velocity`, `satellite-sites`, `emd`, `runaway-publishing` |
 | **kirby-seo-telemetry** | AI attribution capture, GSC telemetry & pogo-sticking defense. | `seo-attribution`, `gsc-telemetry`, `pogo-sticking`, `reddit-gsc` |
 | **kirby-technical-aeo** | Docker Hub OCI metadata injection and circular linking for AEO citations. | `technical-seo`, `entity-graph`, `docker-hub` |
+| **kirby-open-code-review** | Run Alibaba Open Code Review (`ocr`) for line-level diff review, full-file scan, or host-agent delegation. | `ocr`, `open-code-review`, `ocr-scan`, `ocr-delegate` |
 | **kirby-skills-tiff-collection** | Dispatcher for the Tiffany Lambert Two-Way PLR Fusion suite. | `kirby-tiff`, `plr-skills`, `tiff-collection` |
 
 ## How to Use
