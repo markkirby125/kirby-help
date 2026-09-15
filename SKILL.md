@@ -19,7 +19,7 @@ You have the following Kirby skills installed on this machine:
 | **kirby-great-essay** | 7-Module Fractal Essay Architecture for high-impact thought leadership. | `essay`, `editorial`, `thought-leadership` |
 | **kirby-help** | Reference directory of all installed Kirby skills (`/kirby`). | `/kirby`, `kirby skills` |
 | **kirby-local-seo** | Local AI Search, GBP hygiene, Geogrid tracking, sponsorships & Ask Maps review velocity. | `local-seo`, `gbp`, `geogrid`, `ask-maps`, `90-day-sprint`, `local-links`, `sponsorships`, `review-velocity` |
-| **kirby-off-page-seo** | Entity consensus, micro-influencer indexation & AEO PR syndication. | `off-page-seo`, `backlinks`, `micro-influencers`, `reddit-hijacking`, `entity-corroboration` |
+| **kirby-off-page-seo** | Entity consensus, micro-influencer indexation, AEO PR syndication & SaaS listicle placement. | `off-page-seo`, `backlinks`, `micro-influencers`, `reddit-hijacking`, `entity-corroboration`, `saas-listicles`, `link-gap`, `listicle-placement` |
 | **kirby-scheduled-content** | Edge-gated design pattern for securely scheduling static site publishing. | `scheduled-publishing`, `content-gating`, `edge-worker` |
 | **kirby-seo-deployment** | Programmatic deployment staging, velocity rules, satellite EMDs & runaway publishing defense. | `seo-deployment`, `publishing-velocity`, `satellite-sites`, `emd`, `runaway-publishing` |
 | **kirby-seo-telemetry** | AI attribution capture, GSC telemetry & pogo-sticking defense. | `seo-attribution`, `gsc-telemetry`, `pogo-sticking`, `reddit-gsc` |
