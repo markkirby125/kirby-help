@@ -24,7 +24,7 @@ You have the following Kirby skills installed on this machine:
 | **kirby-seo-deployment** | Programmatic deployment staging, velocity rules, satellite EMDs & runaway publishing defense. | `seo-deployment`, `publishing-velocity`, `satellite-sites`, `emd`, `runaway-publishing` |
 | **kirby-seo-telemetry** | AI attribution capture, GSC telemetry & pogo-sticking defense. | `seo-attribution`, `gsc-telemetry`, `pogo-sticking`, `reddit-gsc` |
 | **kirby-technical-aeo** | Docker Hub OCI metadata injection and circular linking for AEO citations. | `technical-seo`, `entity-graph`, `docker-hub` |
-| **kirby-skills-tiff-collection** | Dispatcher for the Tiffany Lambert Two-Way PLR Fusion suite. | `kirby-tiff`, `plr-skills`, `framework-fusion` |
+| **kirby-skills-tiff-collection** | Dispatcher for the Tiffany Lambert Two-Way PLR Fusion suite. | `kirby-tiff`, `plr-skills`, `tiff-collection` |
 
 ## How to Use
 To activate any of these skills, simply ask the agent using one of their triggers (e.g., "Write a landing page using direct-response principles", "Audit this site for chrome drift", or "Perform a security audit on this MCP server").
