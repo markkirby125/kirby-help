@@ -27,6 +27,7 @@ You have the following Kirby skills installed on this machine:
 | **kirby-open-code-review** | Run Alibaba Open Code Review (`ocr`) for line-level diff review, full-file scan, or host-agent delegation. | `ocr`, `open-code-review`, `ocr-scan`, `ocr-delegate` |
 | **kirby-skills-tiff-collection** | Dispatcher for the Tiffany Lambert Two-Way PLR Fusion suite. | `kirby-tiff`, `plr-skills`, `tiff-collection` |
 | **kirby-preferred-sources** | Google Preferred Sources, Direct Trust Overrides, Discover NL prompts & Google News audio briefing attribution. | `preferred-sources`, `direct-trust`, `google-ai-button`, `discover-nl`, `audio-briefings`, `trust-cta`, `preferred-source-tracking` |
+| **kirby-context-audit** | Cross-IDE AI coding agent context bloat, token burn, and skill health auditor (Antigravity, Cursor, Windsurf, Grok, Kimi, Reasonix). | `context bloat`, `token burn`, `audit context`, `audit skills`, `ai-context-audit`, `kirby-context-audit` |
 
 ## How to Use
 To activate any of these skills, simply ask the agent using one of their triggers (e.g., "Write a landing page using direct-response principles", "Audit this site for chrome drift", or "Perform a security audit on this MCP server").
