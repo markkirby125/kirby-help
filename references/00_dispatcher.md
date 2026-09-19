@@ -23,6 +23,7 @@ You have the following Kirby skills installed on this machine:
 | **kirby-preferred-sources** | Google Preferred Sources, Direct Trust Overrides, Discover NL prompts & Google News audio briefing attribution. | `preferred-sources`, `direct-trust`, `google-ai-button`, `discover-nl`, `audio-briefings`, `trust-cta`, `preferred-source-tracking` |
 | **kirby-context-audit** | Cross-IDE AI coding agent context bloat, token burn, and skill health auditor (Antigravity, Cursor, Windsurf, Grok, Kimi, Reasonix). | `context bloat`, `token burn`, `audit context`, `audit skills`, `ai-context-audit`, `kirby-context-audit` |
 | **kirby-fitzpatrick-writers-collection** | Master router for the 48 William Fitzpatrick cognitive writing skills suite across sentence mechanics, paragraph cohesion, macro architecture, code walkthroughs, system grounding, and calibrated technical tone. | `fitzpatrick`, `cognitive-writing`, `locomotive-syntax`, `proposal-engine`, `writer-science`, `uneven-u` |
+| **kirby-text-first-cro** | Text-first CRO & hero architecture: typography as visual carrier, objection demolition, and anti-dashboard rules. | `text-first-cro`, `hero-section`, `landing-page-cro`, `dashboard-trap`, `conversion-optimization` |
 
 ## How to Use
 To activate any of these skills, simply ask the agent using one of their triggers (e.g., "Write a landing page using direct-response principles", "Audit this site for chrome drift", or "Perform a security audit on this MCP server").
