@@ -7,7 +7,7 @@ You have the following Kirby skills installed on this machine:
 | **kirby-accessible-contrast** | RNIB / CVD / WCAG 2.1 AA colour contrast for UI palettes and CSS. | `contrast`, `rnib`, `cvd`, `colour-contrast` |
 | **kirby-agent-security** | Zero-Trust architecture for vetting AI skills, plugins, and MCP servers. | `security-audit`, `mcp-scan`, `seo-mcp-readonly` |
 | **kirby-agentmd-generation** | Generate and slim AGENTS.md / CLAUDE.md via the memory graph. | `agents-md`, `generate-agents-md`, `memory-cache` |
-| **kirby-aiseo-skill** | Modular AI SEO, GEO, AEO protocol for on-page & technical architecture. | `seo`, `aiseo`, `geo`, `aeo`, `crawl-depth`, `content-pruning`, `crawled-not-indexed`, `discovered-not-indexed`, `undertargeted-serp`, `1-hour-seo-update` |
+| **kirby-aiseo-skill** | Modular AI SEO, GEO, AEO protocol for on-page & technical architecture. | `seo`, `aiseo`, `geo`, `aeo`, `crawl-depth`, `content-pruning`, `crawled-not-indexed`, `discovered-not-indexed`, `undertargeted-serp`, `1-hour-seo-update`, `site-harvest`, `internal-linking` |
 | **kirby-chrome-drift-prevention** | SOP for preventing and resolving chrome drift on static sites. | `chrome-drift`, `static-site` |
 | **kirby-direct-response-copywriting** | 17-step Direct Response framework ($7.8B Framework) for sales copy & VSLs. | `copywriting`, `sales-copy` |
 | **kirby-great-essay** | 7-Module Fractal Essay Architecture for high-impact thought leadership. | `essay`, `editorial`, `thought-leadership` |
