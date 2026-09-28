@@ -25,6 +25,7 @@ You have the following Kirby skills installed on this machine:
 | **kirby-fitzpatrick-writers-collection** | Master router for the 48 William Fitzpatrick cognitive writing skills suite across sentence mechanics, paragraph cohesion, macro architecture, code walkthroughs, system grounding, and calibrated technical tone. | `fitzpatrick`, `cognitive-writing`, `locomotive-syntax`, `proposal-engine`, `writer-science`, `uneven-u` |
 | **kirby-text-first-cro** | Text-first CRO & hero architecture: typography as visual carrier, objection demolition, and anti-dashboard rules. | `text-first-cro`, `hero-section`, `landing-page-cro`, `dashboard-trap`, `conversion-optimization` |
 | **kirby-persona-infj** | Injects an authentic INFJ (Ni-Fe-Ti-Se) cognitive persona into any writing style with tunable intensity (Persona Arc), gradients, and rhetorical vectors. | `infj-persona`, `infj-writing`, `counselor-persona`, `infj-help` |
+| **kirby-helix-workflow** | Bootstraps the Shopify Helix agentic workflow: ordered checkpoints, 4 deterministic gates, dual-tier memory & human-gated rollback. | `helix workflow`, `bootstrap helix`, `deterministic-gates` |
 
 ## How to Use
 To activate any of these skills, simply ask the agent using one of their triggers (e.g., "Write a landing page using direct-response principles", "Audit this site for chrome drift", or "Perform a security audit on this MCP server").
