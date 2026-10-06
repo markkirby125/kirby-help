@@ -29,6 +29,7 @@ You have the following Kirby skills installed on this machine:
 | **kirby-yt-faceless-formula** | Interactive, resumable workflow: decode a proven faceless channel's formula in NotebookLM, rebuild it as an original channel (script, visuals, voiceover, edit) with an originality gate. | `faceless-youtube`, `channel-formula`, `notebooklm-channel` |
 | [kirby-zero-to-100-seo](../../kirby-zero-to-100-seo/SKILL.md) | Charles Floate's A-to-Z playbook for launching a new business. Scaffolds on-site architecture and off-site playbook. | `zero-to-100`, `new-business`, `launch-site` |
 | [kirby-saas-syndicate](../../kirby-saas-syndicate/SKILL.md) | Jackie Chow & David Quaid SaaS launch strategy. Scaffolds parasite SEO, Ryan Donnie staging, and multi-brand generation. | `saas-syndicate`, `nordvpn-tactic`, `parasite-saas` |
+| [kirby-scrappy-local-launch](../../kirby-scrappy-local-launch/SKILL.md) | Bootstraps a local business to the top of Google Maps using a $100 scrappy SEO framework, an Astro template, and a 3-phase launch playbook. | `local seo`, `$100 local seo`, `scrappy local launch` |
 
 ## How to Use
 To activate any of these skills, simply ask the agent using one of their triggers (e.g., "Write a landing page using direct-response principles", "Audit this site for chrome drift", or "Perform a security audit on this MCP server").
