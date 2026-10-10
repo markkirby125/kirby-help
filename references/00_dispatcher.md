@@ -30,6 +30,7 @@ You have the following Kirby skills installed on this machine:
 | **kirby-zero-to-100-seo** | Charles Floate's A-to-Z playbook for launching a new business. Scaffolds on-site architecture and off-site playbook. | `zero-to-100`, `new-business`, `launch-site` |
 | **kirby-saas-syndicate** | Jackie Chow & David Quaid SaaS launch strategy. Scaffolds parasite SEO, Ryan Donnie staging, and multi-brand generation. | `saas-syndicate`, `nordvpn-tactic`, `parasite-saas` |
 | **kirby-scrappy-local-launch** | Bootstraps a local business to the top of Google Maps using a $100 scrappy SEO framework, Astro scaffolding, and a 3-phase launch playbook. | `local seo`, `$100 local seo`, `scrappy local launch` |
+| **kirby-decision-engine-optimization** | Win the LLM decision stage: adversarial reverse-audits, procurement micro-disclosures, KG gating, review ecosystems, and LLM-parseable proposals for quote-comparison moments. | `deo`, `decision-engine-optimization`, `procurement`, `tender`, `rfp`, `quote-comparison` |
 
 ## How to Use
 To activate any of these skills, simply ask the agent using one of their triggers (e.g., "Write a landing page using direct-response principles", "Audit this site for chrome drift", or "Perform a security audit on this MCP server").
