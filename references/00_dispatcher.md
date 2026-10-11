@@ -34,6 +34,7 @@ You have the following Kirby skills installed on this machine:
 | **kirby-scrappy-local-launch** | Bootstraps a local business to the top of Google Maps using a $100 scrappy SEO framework, Astro scaffolding, and a 3-phase launch playbook. | `local seo`, `$100 local seo`, `scrappy local launch` |
 | **kirby-decision-engine-optimization** | Win the LLM decision stage: adversarial reverse-audits, procurement micro-disclosures, KG gating, review ecosystems, and LLM-parseable proposals for quote-comparison moments. | `deo`, `decision-engine-optimization`, `procurement`, `tender`, `rfp`, `quote-comparison` |
 | **kirby-seo-timing-benchmarks** | SEO timeline forecasting, stall triage (quality vs. technical), client SLA governance & velocity acceleration on Google's official Illyes Oct 2026 processing benchmarks. | `seo-timing`, `indexing-delay`, `migration-timeline`, `core-update-recovery`, `seo-sla`, `velocity-acceleration` |
+| **kirby-paid-acquisition** | Google & Meta paid acquisition: Quality Score trinity, STAGs, negative-keyword shields, Meta Hyperdopamine scaling, small-town low-volume PPC & advertorial bridge funnels. | `google-ads`, `ppc`, `meta-ads`, `quality-score`, `stag`, `negative-keywords`, `advertorial-funnel` |
 
 ## How to Use
 To activate any of these skills, simply ask the agent using one of their triggers (e.g., "Write a landing page using direct-response principles", "Audit this site for chrome drift", or "Perform a security audit on this MCP server").
