@@ -4,7 +4,7 @@ description: "Display this reference card when the user invokes /kirby to list a
 category: helper
 triggers: ["/kirby", "kirby skills", "list kirby"]
 risk: unverified
-author: william-fitzpatrick
+author: paul-kirby
 tags: [kirby, ai-agent, workflow]
 ---
 
