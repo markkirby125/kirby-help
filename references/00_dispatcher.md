@@ -6,6 +6,7 @@ You have the following Kirby skills installed on this machine:
 |---|---|---|
 | **kirby-accessible-contrast** | RNIB / CVD / WCAG 2.1 AA colour contrast for UI palettes and CSS. | `contrast`, `rnib`, `cvd`, `colour-contrast` |
 | **kirby-agent-security** | Zero-Trust architecture for vetting AI skills, plugins, and MCP servers. | `security-audit`, `mcp-scan`, `seo-mcp-readonly` |
+| **kirby-ai-design-system** | Tri-Part AI design system: Business Context Wiki, brand-token guidelines, and a DOM-native Paper MCP + Higgsfield toolstack for thumbnails and vector PDF lead magnets. | `ai-design-system`, `paper-design`, `higgsfield`, `thumbnail-pipeline`, `lead-magnet-pdf` |
 | **kirby-agentmd-generation** | Generate and slim AGENTS.md / CLAUDE.md via the memory graph. | `agents-md`, `generate-agents-md`, `memory-cache` |
 | **kirby-aiseo-skill** | Modular AI SEO, GEO, AEO protocol for on-page & technical architecture. | `seo`, `aiseo`, `geo`, `aeo`, `crawl-depth`, `content-pruning`, `crawled-not-indexed`, `discovered-not-indexed`, `undertargeted-serp`, `1-hour-seo-update`, `site-harvest`, `internal-linking` |
 | **kirby-chrome-drift-prevention** | SOP for preventing and resolving chrome drift on static sites. | `chrome-drift`, `static-site` |
@@ -26,6 +27,7 @@ You have the following Kirby skills installed on this machine:
 | **kirby-text-first-cro** | Text-first CRO & hero architecture: typography as visual carrier, objection demolition, and anti-dashboard rules. | `text-first-cro`, `hero-section`, `landing-page-cro`, `dashboard-trap`, `conversion-optimization` |
 | **kirby-persona-infj** | Injects an authentic INFJ (Ni-Fe-Ti-Se) cognitive persona into any writing style with tunable intensity (Persona Arc), gradients, and rhetorical vectors. | `infj-persona`, `infj-writing`, `counselor-persona`, `infj-help` |
 | **kirby-helix-workflow** | Bootstraps the Shopify Helix agentic workflow: ordered checkpoints, 4 deterministic gates, dual-tier memory & human-gated rollback. | `helix workflow`, `bootstrap helix`, `deterministic-gates` |
+| **kirby-pocock-workflow** | Matt Pocock spec-driven pipeline: grilling + glossary, immutable specs, Smart Zone ticket DAGs, clean-head builds, two-desk reviews, merge-danger PR gates, deterministic retros. | `pocock-workflow`, `spec-driven`, `grilling`, `to-spec`, `to-tickets`, `two-desk-review`, `merge-danger` |
 | **kirby-yt-faceless-formula** | Interactive, resumable workflow: decode a proven faceless channel's formula in NotebookLM, rebuild it as an original channel (script, visuals, voiceover, edit) with an originality gate. | `faceless-youtube`, `channel-formula`, `notebooklm-channel` |
 | **kirby-zero-to-100-seo** | Charles Floate's A-to-Z playbook for launching a new business. Scaffolds on-site architecture and off-site playbook. | `zero-to-100`, `new-business`, `launch-site` |
 | **kirby-saas-syndicate** | Jackie Chow & David Quaid SaaS launch strategy. Scaffolds parasite SEO, Ryan Donnie staging, and multi-brand generation. | `saas-syndicate`, `nordvpn-tactic`, `parasite-saas` |
